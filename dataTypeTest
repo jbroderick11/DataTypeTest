@@ -1,0 +1,7 @@
+#FahToCel.py
+#This program will convert a temperature
+#in Fahrenheit to Celsius
+fahr = input("Enter the temperature in Fahrenheit: ")
+fahr = float(fahr)
+cel = (fahr - 32)/ 1.8
+print("Temperature in Celsius: ", cel)
