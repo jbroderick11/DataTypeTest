@@ -5,3 +5,5 @@ fahr = input("Enter the temperature in Fahrenheit: ")
 fahr = float(fahr)
 cel = (fahr - 32)/ 1.8
 print("Temperature in Celsius: ", cel)
+
+#Lab 0 File Modifying
